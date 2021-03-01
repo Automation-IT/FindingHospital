@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-01T05:41:18Z" name="Default suite" finished-at="2021-03-01T05:43:57Z" duration-ms="159569">
+    <groups>
+    </groups>
+    <test started-at="2021-03-01T05:41:18Z" name="Default test" finished-at="2021-03-01T05:43:57Z" duration-ms="159569">
+      <class name="com.FindingHospital.testCases.Homepage">
+        <test-method is-config="true" signature="SetDriver()[pri:0, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:40:37Z" name="SetDriver" finished-at="2021-03-01T05:41:18Z" duration-ms="40385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDriver -->
+        <test-method is-config="true" signature="SetProperty()[pri:0, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:41:18Z" name="SetProperty" finished-at="2021-03-01T05:41:18Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetProperty -->
+        <test-method signature="verifyHomePageTitle()[pri:0, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:41:18Z" name="verifyHomePageTitle" finished-at="2021-03-01T05:41:24Z" duration-ms="6413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method signature="city()[pri:2, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:41:24Z" name="city" finished-at="2021-03-01T05:41:30Z" duration-ms="5979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- city -->
+        <test-method signature="searchhospital()[pri:3, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:41:30Z" name="searchhospital" finished-at="2021-03-01T05:41:40Z" duration-ms="9399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchhospital -->
+        <test-method signature="callHospitalSearch()[pri:4, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:41:40Z" name="callHospitalSearch" finished-at="2021-03-01T05:42:53Z" duration-ms="73029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callHospitalSearch -->
+        <test-method signature="callDiagnosispage()[pri:5, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:42:53Z" name="callDiagnosispage" finished-at="2021-03-01T05:43:12Z" duration-ms="19391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callDiagnosispage -->
+        <test-method signature="callCorporateWellness()[pri:6, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:43:12Z" name="callCorporateWellness" finished-at="2021-03-01T05:43:53Z" duration-ms="40461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callCorporateWellness -->
+        <test-method signature="CloseBrowser()[pri:7, instance:com.FindingHospital.testCases.Homepage@367ffa75]" started-at="2021-03-01T05:43:53Z" name="CloseBrowser" finished-at="2021-03-01T05:43:57Z" duration-ms="4729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.FindingHospital.testCases.Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
